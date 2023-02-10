@@ -9,3 +9,8 @@ for num in range (20):
         even_num.append(num)
 for i in range(len(even_num)):
     print(even_num[i])
+
+for i in range(10):
+  numbers.append(i)
+  for i in range(len(even_num)):
+    print(numbers[i])
